@@ -102,6 +102,9 @@ li:hover {
   align-items: center;
   justify-content: center;
   margin-inline: auto;
+  margin-top: 1rem;
+  gap: 1rem;
+
 }
 
 footer {
