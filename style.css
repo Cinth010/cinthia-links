@@ -20,13 +20,11 @@
   --bg-color: #610c63;
   --text-color: #ffffff;
 }
-/*
+
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+  background-color: var(--blank);
   letter-spacing: 0.15rem;
 }
-*/
 
 .content {
   width: 18.75rem;
